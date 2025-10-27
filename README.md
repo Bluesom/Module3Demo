@@ -33,7 +33,3 @@ It shows how to:
 | `Item` | Abstract base class for items with title and price |
 | `BookInfo` | Holds information before adding a book |
 | `Book` | Inherits from `Item` and implements `displayDetails()` |
-
----
-
-## 💻 Example Output
